@@ -25,7 +25,7 @@
     }
   ],
   "notification_subscribers": [],
-  "branches_to_filter": ["master-sync-work","live-sync-work","repo_sync_novalidation_prtest_branch","repo_sync_novalidation_live_branch","repo_sync_novalidation_master_branch"],
+  "branches_to_filter": ["master-from-prod","live-from-prod","repo_sync_novalidation_prtest_branch","repo_sync_novalidation_live_branch","repo_sync_novalidation_master_branch"],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/sql-docs",
   "git_repository_branch_open_to_public_contributors": "live",
   "skip_source_output_uploading": false,
