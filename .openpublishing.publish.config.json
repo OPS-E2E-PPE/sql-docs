@@ -2,14 +2,11 @@
   "build_entry_point": "docs",
   "docsets_to_publish": [
     {
-      "docset_name": "sql-content",
+      "docset_name": "sql-docs-pr-ppe",
       "build_source_folder": "docs",
       "build_output_subfolder": "sql",
       "locale": "en-us",
-      "xref_query_tags": [
-        "/uwp/api",
-        "/dotnet"
-      ],
+      "xref_query_tags": ["/uwp/api", "/dotnet"],
       "monikers": [],
       "moniker_ranges": [
         "sql-server-2014",
@@ -29,7 +26,7 @@
     }
   ],
   "notification_subscribers": [],
-  "branches_to_filter": [],
+  "branches_to_filter": ["prtest","prtest-nometavalidation","master-from-prod","live-from-prod","repo_sync_novalidation_prtest_branch","repo_sync_novalidation_live_branch","repo_sync_novalidation_master_branch"],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/sql-docs",
   "git_repository_branch_open_to_public_contributors": "live",
   "skip_source_output_uploading": false,
