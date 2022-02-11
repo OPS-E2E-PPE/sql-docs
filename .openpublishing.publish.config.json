@@ -26,7 +26,7 @@
   ],
   "notification_subscribers": [],
   "branches_to_filter": ["prtest","prtest-nometavalidation","master-from-prod","live-from-prod","repo_sync_novalidation_prtest_branch","repo_sync_novalidation_live_branch","repo_sync_novalidation_master_branch"],
-  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/sql-docs",
+  "git_repository_url_open_to_public_contributors": "https://github.com/OPS-E2E-PPE/sql-docs",
   "git_repository_branch_open_to_public_contributors": "live",
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
