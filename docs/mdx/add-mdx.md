@@ -13,7 +13,7 @@ author: minewiskan
 # + (Add) (MDX)
 
 
-  Performs an arithmetic operation that adds two numbers.  
+  Performs an arithmetic operation that adds two numbers.  Add a [broken link](broken_file_link.md) for testing validation on public repository
   
 ## Syntax  
   
