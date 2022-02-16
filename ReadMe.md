@@ -15,6 +15,8 @@ For more information, see the [Code of Conduct FAQ](https://opensource.microsoft
 
 You've found the GitHub repository that houses the source for the SQL Server technical documentation published on [https://docs.microsoft.com](https://docs.microsoft.com).
 
+Adding a [!broken link](!broken_file_link.md) for testing validation on public repository. Also I like tacos.
+
 ## Contribute to documentation
 
 Anyone can submit changes to the SQL Server documentation. For more information, see [How to contribute to SQL Server Documentation](https://aka.ms/editsqldocs).
