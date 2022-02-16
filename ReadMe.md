@@ -15,7 +15,7 @@ For more information, see the [Code of Conduct FAQ](https://opensource.microsoft
 
 You've found the GitHub repository that houses the source for the SQL Server technical documentation published on [https://docs.microsoft.com](https://docs.microsoft.com).
 
-Adding a broken link [broken link](broken_file_link.md). Also I like tacos!
+Adding a [broken link](#somebrokenlinkfilethatdefinitelywillnotwork.md). Also I like tacos.
 
 ## Contribute to documentation
 
