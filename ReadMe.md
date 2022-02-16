@@ -13,7 +13,7 @@ For more information, see the [Code of Conduct FAQ](https://opensource.microsoft
 
 # Microsoft SQL Server Technical Documentation
 
-You've found the GitHub repository that houses the source for the SQL Server technical documentation published on [https://docs.microsoft.com](https://docs.microsoft.com).
+Adding a broken link [https://docs.microsoft.com](http://docs.microsof.com).
 
 ## Contribute to documentation
 
