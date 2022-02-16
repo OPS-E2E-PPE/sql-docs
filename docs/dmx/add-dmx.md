@@ -19,9 +19,11 @@ author: minewiskan
   
 ```  
   
-Numeric_Expression + Numeric_Expression  
+Numeric_Expression + Numeric_Expression
 ```  
-  
+
+This is a broken [link](../htp:/doc.microsof.com).
+
 #### Parameters  
  *Numeric_Expression*  
  A valid Data Mining Extensions (DMX) expression that returns a numeric value.  
