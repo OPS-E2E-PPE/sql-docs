@@ -2,7 +2,7 @@
 title: Tutorial: Test new article
 description: Learn how to test build in the public repo. Not for merge.
 ms.custom: ""
-ms.date: 02/21/2022
+ms.date: 03/21/2022
 ms.prod: sql
 ms.technology: sql-server-powershell
 ms.topic: conceptual
