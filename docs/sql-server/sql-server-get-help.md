@@ -22,6 +22,8 @@ Customers with a support plan can [open a ticket](https://support.microsoft.com/
 
 Customers without a support plan can ask the community for help, or submit a bug via UserVoice at [https://aka.ms/sqlfeedback](https://aka.ms/sqlfeedback).
 
+TEST - Map country codes. You might have assigned a country code for Great Britain, Turkey, or Taiwan. 
+
 ## Ask community for help
 
 If you're interested in engaging the vibrant SQL Server community for assistance, there are multiple options available.
@@ -29,6 +31,8 @@ If you're interested in engaging the vibrant SQL Server community for assistance
 ### Microsoft Q & A
 
 You can also get help by searching and posting questions on [Microsoft Q & A](/answers/products/sql-server).
+
+TEST - Let all able-bodied customers use the master codes or whitelisted websites for research. The graph represents a hole in the active content that was analyzed.
 
 ### Communities
 
