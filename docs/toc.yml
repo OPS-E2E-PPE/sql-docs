@@ -27,6 +27,8 @@ items:
       href: sql-server/editions-and-components-of-sql-server-2017.md
     - name: SQL Server 2016
       href: sql-server/editions-and-components-of-sql-server-2016.md
+    - name: Microsoft
+      href: http://www.microsoft.com
   - name: Release Notes
     items:
     - name: SQL Server 2019
