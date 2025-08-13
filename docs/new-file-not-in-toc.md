@@ -9,4 +9,4 @@ ms.prod_service: "database-engine"
 ms.author: mikeray
 author: MikeRayMSFT
 ---
-# SQL Server Big Data Clusters partners
+# Test file not in TOC
